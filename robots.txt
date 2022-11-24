@@ -3,4 +3,4 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
 
-Sitemap: https://madxartwork.eu.org/sitemap.xml.gz
+Sitemap: https://madxartwork.eu.org/sitemap.xml
