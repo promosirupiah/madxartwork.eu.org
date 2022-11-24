@@ -1,0 +1,6 @@
+H:\tes\wp\schema\schema-madx\schema-premium.php
+H:\tes\wp\schema\schema-madx\languages\schema-premium-ar.mo
+H:\tes\wp\schema\schema-madx\languages\schema-premium-ar.po
+H:\tes\wp\schema\schema-madx\languages\schema-premium-en_US.mo
+H:\tes\wp\schema\schema-madx\languages\schema-premium-en_US.po
+H:\tes\wp\schema\schema-madx\languages\schema-premium.pot
